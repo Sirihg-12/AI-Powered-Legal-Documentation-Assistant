@@ -1,0 +1,1 @@
+{ "compilerOptions": { "target": "esnext", "module": "esnext", "jsx": "react-jsx", "moduleResolution": "node", "isolatedModules": true, "esModuleInterop": true, "strict": true, "forceConsistentCasingInFileNames": true }, "include": ["src", "vite-env.d.ts"] }
